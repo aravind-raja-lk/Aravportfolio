@@ -25,3 +25,5 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+#i dont say scerets
+/config/developement_secret.txt
